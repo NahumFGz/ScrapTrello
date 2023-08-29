@@ -1,0 +1,11 @@
+# Ignorar los logs
+bmp.log
+server.log
+
+# ignorar carpetas especificas
+utils/__pycache__/
+my_env/
+
+# Archivos y carpetas generados por el sistema
+__pycache__/
+*.pyc
